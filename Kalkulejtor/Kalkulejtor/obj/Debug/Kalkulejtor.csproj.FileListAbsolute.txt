@@ -1,0 +1,29 @@
+C:\Users\Goran\Desktop\Lab4\Kalkulejtor\Kalkulejtor\bin\Debug\Kalkulejtor.exe.config
+C:\Users\Goran\Desktop\Lab4\Kalkulejtor\Kalkulejtor\bin\Debug\Kalkulejtor.exe
+C:\Users\Goran\Desktop\Lab4\Kalkulejtor\Kalkulejtor\bin\Debug\Kalkulejtor.pdb
+C:\Users\Goran\Desktop\Lab4\Kalkulejtor\Kalkulejtor\obj\Debug\Kalkulejtor.csprojResolveAssemblyReference.cache
+C:\Users\Goran\Desktop\Lab4\Kalkulejtor\Kalkulejtor\obj\Debug\Kalkulejtor.Form1.resources
+C:\Users\Goran\Desktop\Lab4\Kalkulejtor\Kalkulejtor\obj\Debug\Kalkulejtor.Properties.Resources.resources
+C:\Users\Goran\Desktop\Lab4\Kalkulejtor\Kalkulejtor\obj\Debug\Kalkulejtor.csproj.GenerateResource.Cache
+C:\Users\Goran\Desktop\Lab4\Kalkulejtor\Kalkulejtor\obj\Debug\Kalkulejtor.exe
+C:\Users\Goran\Desktop\Lab4\Kalkulejtor\Kalkulejtor\obj\Debug\Kalkulejtor.pdb
+C:\Users\Goran\Desktop\kalkulejtor\Kalkulejtor\Kalkulejtor\bin\Debug\Kalkulejtor.exe.config
+C:\Users\Goran\Desktop\kalkulejtor\Kalkulejtor\Kalkulejtor\obj\Debug\Kalkulejtor.exe
+C:\Users\Goran\Desktop\kalkulejtor\Kalkulejtor\Kalkulejtor\obj\Debug\Kalkulejtor.pdb
+C:\Users\Goran\Desktop\kalkulejtor\Kalkulejtor\Kalkulejtor\bin\Debug\Kalkulejtor.exe
+C:\Users\Goran\Desktop\kalkulejtor\Kalkulejtor\Kalkulejtor\bin\Debug\Kalkulejtor.pdb
+C:\Users\Goran\Desktop\kalkulejtor\Kalkulejtor\Kalkulejtor\obj\Debug\Kalkulejtor.csprojResolveAssemblyReference.cache
+C:\Users\Goran\Desktop\kalkulejtor\Kalkulejtor\Kalkulejtor\obj\Debug\Kalkulejtor.Form1.resources
+C:\Users\Goran\Desktop\kalkulejtor\Kalkulejtor\Kalkulejtor\obj\Debug\Kalkulejtor.Properties.Resources.resources
+C:\Users\Goran\Desktop\kalkulejtor\Kalkulejtor\Kalkulejtor\obj\Debug\Kalkulejtor.csproj.GenerateResource.Cache
+C:\Users\Goran\Desktop\kalkulejtor\Kalkulejtor\Kalkulejtor\obj\Debug\Kalkulejtor.Scientific.resources
+C:\Users\Zoki\Documents\Visual Studio 2015\Projects\kalkulejtor\Kalkulejtor\Kalkulejtor\bin\Debug\Kalkulejtor.exe.config
+C:\Users\Zoki\Documents\Visual Studio 2015\Projects\kalkulejtor\Kalkulejtor\Kalkulejtor\obj\Debug\Kalkulejtor.exe
+C:\Users\Zoki\Documents\Visual Studio 2015\Projects\kalkulejtor\Kalkulejtor\Kalkulejtor\obj\Debug\Kalkulejtor.pdb
+C:\Users\Zoki\Documents\Visual Studio 2015\Projects\kalkulejtor\Kalkulejtor\Kalkulejtor\bin\Debug\Kalkulejtor.exe
+C:\Users\Zoki\Documents\Visual Studio 2015\Projects\kalkulejtor\Kalkulejtor\Kalkulejtor\bin\Debug\Kalkulejtor.pdb
+C:\Users\Zoki\Documents\Visual Studio 2015\Projects\kalkulejtor\Kalkulejtor\Kalkulejtor\obj\Debug\Kalkulejtor.csprojResolveAssemblyReference.cache
+C:\Users\Zoki\Documents\Visual Studio 2015\Projects\kalkulejtor\Kalkulejtor\Kalkulejtor\obj\Debug\Kalkulejtor.Form1.resources
+C:\Users\Zoki\Documents\Visual Studio 2015\Projects\kalkulejtor\Kalkulejtor\Kalkulejtor\obj\Debug\Kalkulejtor.Properties.Resources.resources
+C:\Users\Zoki\Documents\Visual Studio 2015\Projects\kalkulejtor\Kalkulejtor\Kalkulejtor\obj\Debug\Kalkulejtor.Scientific.resources
+C:\Users\Zoki\Documents\Visual Studio 2015\Projects\kalkulejtor\Kalkulejtor\Kalkulejtor\obj\Debug\Kalkulejtor.csproj.GenerateResource.Cache
